@@ -1,21 +1,37 @@
-MIT License
+Copyright Notice - All Rights Reserved
 
-Copyright (c) 2026 Nishant Harkut
+Copyright (c) 2026 Nishant Harkut. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+No public license is granted for original code, documentation, or other
+original copyrightable material covered by this notice. Except as permitted
+by applicable law, applicable hosting-platform terms, or separate written
+permission from the copyright holder, you may not use, copy, modify,
+redistribute, sublicense, sell, or incorporate that material into other works.
+This restriction applies to both commercial and non-commercial use.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Requests for permission: img_2023040@iiitm.ac.in
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Scope
+
+This notice applies only to material for which the copyright holder controls
+the relevant rights. Third-party code, datasets, papers, dependencies, vendor
+materials, and separately licensed files remain subject to their own terms.
+Their copyright and license notices must be preserved. See NOTICE.md.
+
+Earlier versions
+
+This notice does not revoke permissions already granted for versions
+previously distributed under the MIT license or another valid license.
+Those versions remain governed by their applicable license terms.
+
+Access
+
+This notice is not a technical access control. Public hosting may permit
+viewing and forking under the hosting platform's terms. Repository visibility
+and access permissions must be managed separately.
+
+Disclaimer
+
+TO THE EXTENT PERMITTED BY LAW, THE MATERIAL IS PROVIDED "AS IS", WITHOUT
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE COPYRIGHT HOLDER SHALL NOT BE
+LIABLE FOR CLAIMS OR DAMAGES ARISING FROM ITS USE.

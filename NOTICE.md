@@ -5,10 +5,13 @@ local copies of datasets, and third-party paper/material references.
 
 ## License Scope
 
-The MIT license applies to original code and original documentation authored
-for this repository unless a file states otherwise.
+Original material covered by the root LICENSE is all rights reserved.
+No public reuse license is granted. Written permission is required except
+where applicable law, hosting-platform terms, or an existing license permits
+otherwise. This change does not revoke permissions for earlier versions
+distributed under MIT or another valid license.
 
-The license does not re-license:
+The root notice does not re-license or override the terms of:
 
 - WSN-DS or Edge-IIoTset dataset files.
 - Local copies of third-party papers, PDFs, or extracted paper text.

@@ -3,6 +3,10 @@
 This repository is currently in paper-writing and evidence-freezing mode.
 Changes should preserve traceability and avoid weakening the claim boundary.
 
+The project does not grant a public reuse license. Contact the maintainer
+before submitting code or other copyrightable material so that contribution
+and licensing permissions can be agreed in writing. See LICENSE and NOTICE.md.
+
 ## Ground Rules
 
 - Do not remove evidence files. Move files only when preserving them under a
