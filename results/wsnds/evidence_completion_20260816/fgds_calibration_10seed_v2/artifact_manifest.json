@@ -1,0 +1,42 @@
+{
+  "protocol_id": "wsnds_fgds_calibration_10seed_v2",
+  "status": "complete",
+  "file_count_excluding_manifest": 7,
+  "files": [
+    {
+      "path": "aggregate_results.json",
+      "size_bytes": 65906,
+      "sha256": "7d4e9926436dcf57681a4be207bf9741737bae4713c5856aa5c8e0a9704e535f"
+    },
+    {
+      "path": "analysis_contract.json",
+      "size_bytes": 14789,
+      "sha256": "1fe47cde40a8328afb38784461ce48fe5af527682fd90728ae830e5332b60625"
+    },
+    {
+      "path": "classwise_ece_15.csv",
+      "size_bytes": 11235,
+      "sha256": "8889027928960343fd88085d3360e5160aa3290fa690d344cccf02911d1dd6ba"
+    },
+    {
+      "path": "paired_tests.json",
+      "size_bytes": 41516,
+      "sha256": "995b124ad9d02eb6dec3bf042f90d623d95c4f489d52ef4c2616e81f4ac358c6"
+    },
+    {
+      "path": "per_seed_metrics.csv",
+      "size_bytes": 17699,
+      "sha256": "aa4dcde1e1ad926c70e46176a9e615cf746cbb378b79197db9a515cba3cbed06"
+    },
+    {
+      "path": "reliability_bins_15.csv",
+      "size_bytes": 54868,
+      "sha256": "2f44a2694ac164fb10723ece650cb9f951025fb173da217a14b0aaf0839b165e"
+    },
+    {
+      "path": "reliability_summary_15.csv",
+      "size_bytes": 7870,
+      "sha256": "c5f273b7f47e67f59fd57425c96d63433c1b06cdd6438bb9ef0ba9be0be70c0f"
+    }
+  ]
+}
