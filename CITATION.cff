@@ -9,8 +9,8 @@ authors:
     given-names: Nishant
     affiliation: "Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior, India"
     email: "img_2023040@iiitm.ac.in"
-repository-code: "https://github.com/nishantharkut/CuKD-XAI"
-license: MIT
+repository-code: "https://github.com/nishantharkut/TinyRF-KD"
+license-url: "https://github.com/nishantharkut/TinyRF-KD/blob/main/LICENSE"
 keywords:
   - intrusion detection
   - wireless sensor networks
